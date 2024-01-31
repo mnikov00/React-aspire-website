@@ -1,5 +1,23 @@
 # Getting Started with Create React App
 
+# 1. yarn create react-app my-app
+
+# 2. yarn add -D tailwindcss
+
+# 3. tailwindcss init
+
+# 4. content: ["./src/**/*.{html,js}"]
+
+# 5. @tailwind base;
+
+# @tailwind components;
+
+# @tailwind utilities;
+
+# 6. yarn add react-icons
+
+# import { AiOutlineMenu, AiOutlineLine } from "react-icons/ai";
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
