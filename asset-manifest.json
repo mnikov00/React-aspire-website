@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-aspire-website/static/css/main.90439233.css",
-    "main.js": "/React-aspire-website/static/js/main.ad91dde1.js",
+    "main.css": "/React-aspire-website/static/css/main.a612d9d4.css",
+    "main.js": "/React-aspire-website/static/js/main.d070785a.js",
     "static/media/people.png": "/React-aspire-website/static/media/people.c8fa89208694e175eec8.png",
     "static/media/Template.png": "/React-aspire-website/static/media/Template.6f5d6e432237a6268100.png",
     "static/media/person8.png": "/React-aspire-website/static/media/person8.6e877b2261ba1e55af73.png",
@@ -53,11 +53,11 @@
     "static/media/Icon2.svg": "/React-aspire-website/static/media/Icon2.ea8238209f67ef56b5b903fa3320baff.svg",
     "index.html": "/React-aspire-website/index.html",
     "static/media/Icon1.svg": "/React-aspire-website/static/media/Icon1.63a9509e09bf8d20fee30cb852eb2b62.svg",
-    "main.90439233.css.map": "/React-aspire-website/static/css/main.90439233.css.map",
-    "main.ad91dde1.js.map": "/React-aspire-website/static/js/main.ad91dde1.js.map"
+    "main.a612d9d4.css.map": "/React-aspire-website/static/css/main.a612d9d4.css.map",
+    "main.d070785a.js.map": "/React-aspire-website/static/js/main.d070785a.js.map"
   },
   "entrypoints": [
-    "static/css/main.90439233.css",
-    "static/js/main.ad91dde1.js"
+    "static/css/main.a612d9d4.css",
+    "static/js/main.d070785a.js"
   ]
 }
