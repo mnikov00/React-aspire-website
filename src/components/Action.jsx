@@ -18,7 +18,7 @@ const Action = () => {
           placeholder="Enter your work email"
         />
         <button
-          class="bg-rose-500 rounded-[60px] text-white text-sm font-medium w-[116px] h-11 px-[15px] mr-3"
+          class="bg-rose-500 rounded-[60px] text-white text-sm font-medium w-[116px] h-11 px-[15px] mr-3 max-sm:m-1 max-sm:h-[58px] max-sm:w-15"
           type="button"
         >
           Get Started
