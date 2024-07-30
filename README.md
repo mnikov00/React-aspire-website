@@ -2,8 +2,8 @@
 
 ### [Live Site](https://mnikov00.github.io/React-aspire-website)
 
-![Modern UI/UX GPT-3](https://i.ibb.co/WHZxjG4/large.png)
-![Modern UI/UX GPT-3](https://i.ibb.co/3cD2Qhp/small.png)
+![Modern UI/UX Aspire](https://i.ibb.co/WHZxjG4/large.png)
+![Modern UI/UX Aspire](https://i.ibb.co/3cD2Qhp/small.png)
 
 # Responsive design using Tailwind CSS
 
